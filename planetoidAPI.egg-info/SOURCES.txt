@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+planetoidAPI/__init__.py
+planetoidAPI.egg-info/PKG-INFO
+planetoidAPI.egg-info/SOURCES.txt
+planetoidAPI.egg-info/dependency_links.txt
+planetoidAPI.egg-info/top_level.txt

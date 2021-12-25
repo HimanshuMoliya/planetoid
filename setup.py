@@ -32,4 +32,5 @@ setup(
         'Programming Language :: Python :: 3.8',
         'Programming Language :: Python :: 3.9',
     ],    
+    download_url="https://pypi.org/project/planetoidAPI/0.0.1/",
 )
