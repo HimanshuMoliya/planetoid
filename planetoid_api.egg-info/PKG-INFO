@@ -1,12 +1,13 @@
 Metadata-Version: 2.1
-Name: planetoidAPI
+Name: planetoid-api
 Version: 0.0.1
 Summary: Planetoid's official library to access free API
 Home-page: https://github.com/HimanshuMoliya/planetoid.git
-Author: Himanshu Moliya (Planetoid)
+Author: Himanshu Moliya (Founder)
 License: MIT
+Download-URL: https://pypi.org/project/planetoid-api/0.0.1/
 Project-URL: Bug Tracker, https://github.com/HimanshuMoliya/planetoid/issues
-Keywords: pypi,planetoid,himanshumoliya,himanshu
+Keywords: pypi,planetoid,planetoid-api,free,api,himanshumoliya,himanshu
 Platform: UNKNOWN
 Description-Content-Type: text/markdown
 License-File: LICENSE
