@@ -7,8 +7,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name='planetoid-api',                           # should match the package folder
-    packages=['planetoid-api'],                     # should match the package folder
+    name='planetoidAI',                           # should match the package folder
+    packages=['planetoidAI'],                     # should match the package folder
     version='0.0.1',                                # important for updates
     license='MIT',                                  # should match your chosen license
     description="Planetoid's official library to access free API",
@@ -32,5 +32,5 @@ setup(
         'Programming Language :: Python :: 3.8',
         'Programming Language :: Python :: 3.9',
     ],    
-    download_url="https://pypi.org/project/planetoid-api/0.0.1/",
+    download_url="https://pypi.org/project/planetoidAI/0.0.1/",
 )
