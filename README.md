@@ -28,8 +28,6 @@ Planetoid's official library to access free APIs!
 
 <a href="https://planetoid.pythonanywhere.com/"><strong>Explore more »</strong></a>
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ### Built With
 
 <!-- This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples. -->
@@ -38,8 +36,6 @@ Planetoid's official library to access free APIs!
 <!-- * [JQuery](https://jquery.com) -->
 <!-- <p align="right">(<a href="#top">back to top</a>)</p> -->
 
-
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -47,13 +43,12 @@ Planetoid's official library to access free APIs!
 To get a local copy up and running follow these simple example steps.
  -->
 ### Prerequisites
-
 <!-- This is an example of how to list things you need to use the software and how to install them. -->
 * Python 3 
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+<!-- _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._ -->
 <!-- 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
@@ -74,7 +69,7 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- <p align="right">(<a href="#top">back to top</a>)</p> -->
 
 <!-- USAGE EXAMPLES -->
-## Usage five free API
+## Usage 
 
 Useful examples of how a project can be used. 
 
